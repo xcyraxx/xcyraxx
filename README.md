@@ -1,4 +1,4 @@
-### Hello 👋
+### Hello there!
 
 My name is Adil, 16yo. I mainly work with Python3. Coffee 🤌
 
