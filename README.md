@@ -1,4 +1,4 @@
-<img src="img/welk.png" width="500" height="340" />
+<img src="img/BANNER.gif">
 
 ## About me
 ‣ 𝙸'𝚖 𝚊 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝, 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚘𝚒𝚗𝚐 𝚖𝚢 𝚋𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚢𝚋𝚎𝚛𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢.  
@@ -11,8 +11,6 @@
 
 ## My Favourite tech 
 > Languages and tools I use the most
-
-<!-- ![languages-card](https://github-readme-stats.vercel.app/api/top-langs/?username=xcyraxx&layout=compact&langs_count=8&theme=material-palenight&hide_border=true) -->
 
 <table>
   <tr>
@@ -60,3 +58,5 @@
     </td>
   </tr>
 </table>
+
+![languages-card](https://github-readme-stats.vercel.app/api/top-langs/?username=xcyraxx&layout=compact&langs_count=8&theme=material-palenight&hide_border=true)
